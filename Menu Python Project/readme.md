@@ -1,1 +1,1 @@
-<h1> Menu Python Project </h1>
+<h2> Menu Python Project </h2>
