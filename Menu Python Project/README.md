@@ -1,5 +1,5 @@
 <h2> Menu Python Project </h2>
-<p>Try the program <a href="https://billpham995.pyscriptapps.com/menu-ghs-v1-1/latest/"> Here➜ </a></p>
+<h3>Try the program <a href="https://billpham995.pyscriptapps.com/menu-ghs-v1-1/latest/"> Here➜ </a></h3>
 
 <h3> Menu GHS </h3>
 <p> Menu GHS is a collaborative Python project completed with two teammates for an assignment at Swinburne University of Technology. This version does not use CSV files; instead, it uses an integrated array table within the Python file. The program demonstrates fundamental menu programming, showing how arrays interact with specific functions. This project helped me strengthen my understanding of Python data structures and function design while enjoying the hands-on learning experience. </p>
