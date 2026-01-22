@@ -1,5 +1,5 @@
 <h2> Menu Python Project </h2>
-<h3>Try the program <a href="https://billpham995.pyscriptapps.com/menu-ghs-v1-1/latest/"> Here➜ </a></h3>
+<h3>Try the program </h3> <a href="https://billpham995.pyscriptapps.com/menu-ghs-v1-1/latest/"> Here➜ </a>
 
 </br>
 <h3> Menu GHS </h3>
