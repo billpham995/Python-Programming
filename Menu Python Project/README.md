@@ -1,6 +1,5 @@
 <h2> Menu Python Project </h2>
-<h3>Try the program </h3> 
-<p> <a href="https://billpham995.pyscriptapps.com/menu-ghs-v1-1/latest/"> Here➜ </a> </p>
+<p> Try the program <a href="https://billpham995.pyscriptapps.com/menu-ghs-v1-1/latest/"> Here➜ </a> </p>
 <p> *Note: Please try the program on the PC/Laptop's web browser, as it does not work properly on mobile devices. </p>
 
 </br>
