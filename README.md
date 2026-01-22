@@ -5,7 +5,6 @@
 <h2> Menu Python Project </h2>
 <p> A Python menu-driven program that allows users to load, add, and display records, with an option to exit. The project is presented in three variations: the first version demonstrates the menu and data handling without using CSV files; the second version introduces CSV file integration for persistent storage; and the third version separates functionality across multiple Python files that work together modularly. This project highlights interactive console programming, file handling, modular code structure, and practical data management skills </p>
 
-<br/>
 <h3> Menu GHS </h3>
 <p> Menu GHS is a collaborative Python project completed with two teammates for an assignment at Swinburne University of Technology. This version does not use CSV files; instead, it uses an integrated array table within the Python file. The program demonstrates fundamental menu programming, showing how arrays interact with specific functions. This project helped me strengthen my understanding of Python data structures and function design while enjoying the hands-on learning experience. </p>
 <p> Access Menu GHS files <a href="https://github.com/billpham995/Python-Programming/tree/main/Menu%20Python%20Project/Menu%20GHS"> Here➜ </a>   </p>
